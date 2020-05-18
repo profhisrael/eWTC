@@ -31,7 +31,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
+  <!--======= W3 css ======-->
+  <link href="assets/css/w3.css" rel="stylesheet">
 
 </head>
 
@@ -51,7 +52,7 @@
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="app/services.php">Our Services</a></li>
+          <li><a href="services.php">Our Services</a></li>
           <li><a href="Training.php">Training & Programmes</a></li>
           <li><a href="vacancy.php">Vacancies</a></li>
           <li><a href="#hotels">Blog</a></li>
@@ -104,111 +105,62 @@
       </div>
     </section><!-- End About Section -->
 
+    <br>
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="wow fadeInUp">
-      <div class="container">
+  <!-- ======= Services Section ======= -->
         <div class="section-header">
-          <h2>Services</h2>
-          <p>Here are some of our speakers</p>
+          <h2>Our Services </h2>
+</div>
+<!-- ======= Services Section ======= -->
+    <section id="serv">
+      <div class="container">
+
+        <div class="row serv-cols">
+
+          <div class="col-md-4 wow fadeInUp">
+            <div class="serv-col">
+              <div class="img">
+                <img src="assets/img/gallery/1.jpg" alt="" class="img-fluid">
+                <div class="icon"><i style="color:#060c22;" class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
+              <p align="justify">
+                Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="serv-col">
+              <div class="img">
+                <img src="assets/img/serv-plan.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Plan</a></h2>
+              <p>
+                Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="serv-col">
+              <div class="img">
+                <img src="assets/img/serv-vision.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Vision</a></h2>
+              <p>
+                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+              </p>
+            </div>
+          </div>
+
         </div>
 
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="services">
-              <img src="assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Brenden Legros</a></h3>
-                <p>Quas alias incidunt</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Hubert Hirthe</a></h3>
-                <p>Consequuntur odio aut</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Cole Emmerich</a></h3>
-                <p>Fugiat laborum et</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
-                <p>Debitis iure vero</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
-                <p>Qui molestiae natus</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="assets/img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
-              <div class="details">
-                <h3><a href="speaker-details.html">Willow Trantow</a></h3>
-                <p>Non autem dicta</p>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
-      <div>
-
-    </section><!-- End Speakers Section -->
+    </section><!-- End serv Us Section -->
+    
 
     <!-- ======= Training and upcoming Pogrammes ======= -->
     <section id="hotels" class="section-with-bg wow fadeInUp">
