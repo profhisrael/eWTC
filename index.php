@@ -125,7 +125,7 @@
               </div>
               <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
               <p align="justify">
-                Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                What is Field Force Management? Field Service Management (FSM), also known as Field Force Automation (FFA), is an attempt to optimize processes and information needed by companies who send technicians or staff "into the field" (or out of the office.)
               </p>
             </div>
           </div>
