@@ -112,6 +112,7 @@
           <h2>Our Services </h2>
 </div>
 <!-- ======= Services Section ======= -->
+<div class="section-header">
     <section id="serv">
       <div class="container">
 
@@ -179,7 +180,6 @@
       <div class="container">
         <div class="section-header">
           <h2>Taining & Upcoming Programmes</h2>
-          <p>Her are some nearby hotels</p>
         </div>
 
         <div class="row">
