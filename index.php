@@ -121,38 +121,47 @@
             <div class="serv-col">
               <div class="img">
                 <img src="assets/img/gallery/1.jpg" alt="" class="img-fluid">
-                <div class="icon"><i style="color:#060c22;" class="ion-ios-speedometer-outline"></i></div>
+                <div class="icon"><span style="color:#060c22;" class="fa fa-flash w3-xxlarge""></span></div>
               </div>
               <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
               <p align="justify">
                 What is Field Force Management? Field Service Management (FSM), also known as Field Force Automation (FFA), is an attempt to optimize processes and information needed by companies who send technicians or staff "into the field" (or out of the office.)
               </p>
+              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <br>
+
             </div>
           </div>
 
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div class="serv-col">
               <div class="img">
-                <img src="assets/img/serv-plan.jpg" alt="" class="img-fluid">
-                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+                <img src="assets/img/gallery/2.jpg" alt="" class="img-fluid">
+                <div class="icon"><span class="fa fa-spinner w3-xxlarge"></span></div>
               </div>
               <h2 class="title"><a href="#"> Training and Human Capital Development</a></h2>
               <p align="justify">
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                At the end of it all, we know adding value means helping you to save money, make more money or growing your business. In any and all assignments, these are our primary consideration. We do this focusing on improving your processes, making your resources far more efficient , ensuring  your people more productive or a combination of the 3, by delivering practical, accessible, current and useful advisory, proposal and solutions.
               </p>
+              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <br>
+
             </div>
           </div>
 
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="serv-col">
               <div class="img">
-                <img src="assets/img/serv-vision.jpg" alt="" class="img-fluid">
-                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+                <img src="assets/img/gallery/3.jpg" alt="" class="img-fluid">
+                <div class="icon"><span class="fa fa-check w3-xxlarge""></span></div>
               </div>
-              <h2 class="title"><a href="#"><span class="fa fa-star"></span> Sales and Marketing Solution</a></h2>
+              <h2 class="title"><a href="#">Sales and Marketing Solution</a></h2>
               <p align="justify">
-                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                <span class="fa fa-star"></span> Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
               </p>
+              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <br>
+
             </div>
           </div>
 
