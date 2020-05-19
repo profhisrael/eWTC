@@ -136,8 +136,8 @@
                 <img src="assets/img/serv-plan.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-list-outline"></i></div>
               </div>
-              <h2 class="title"><a href="#">Our Plan</a></h2>
-              <p>
+              <h2 class="title"><a href="#"> Training and Human Capital Development</a></h2>
+              <p align="justify">
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
               </p>
             </div>
@@ -149,8 +149,8 @@
                 <img src="assets/img/serv-vision.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-eye-outline"></i></div>
               </div>
-              <h2 class="title"><a href="#">Our Vision</a></h2>
-              <p>
+              <h2 class="title"><a href="#"><span class="fa fa-star"></span> Sales and Marketing Solution</a></h2>
+              <p align="justify">
                 Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
               </p>
             </div>
