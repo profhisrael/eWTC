@@ -55,7 +55,7 @@
           <li><a href="services.php">Our Services</a></li>
           <li><a href="Training.php">Training & Programmes</a></li>
           <li><a href="vacancy.php">Vacancies</a></li>
-          <li><a href="#hotels">Blog</a></li>
+          <li><a href="#trainings">Blog</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
           <li><a href="contact-us.php">Contact</a></li>
@@ -175,21 +175,21 @@
     
 
     <!-- ======= Training and upcoming Pogrammes ======= -->
-    <section id="hotels" class="section-with-bg wow fadeInUp">
+    <section id="trainings" class="section-with-bg wow fadeInUp">
 
       <div class="container">
         <div class="section-header">
           <h2>Taining & Upcoming Programmes</h2>
-        </div>
 
+        </div>
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="assets/img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
+          <div class="col-lg-2 col-md-4">
+            <div class="training">
+              <div class="training-img">
+                <img src="assets/img/hotels/1.jpg" alt="training 1" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 1</a></h3>
+              <h3><a href="#">training 1</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -202,11 +202,11 @@
           </div>
 
           <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="assets/img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
+            <div class="training">
+              <div class="training-img">
+                <img src="assets/img/hotels/2.jpg" alt="training 2" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 2</a></h3>
+              <h3><a href="#">training 2</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -219,11 +219,11 @@
           </div>
 
           <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="assets/img/hotels/3.jpg" alt="Hotel 3" class="img-fluid">
+            <div class="training">
+              <div class="training-img">
+                <img src="assets/img/hotels/3.jpg" alt="training 3" class="img-fluid">
               </div>
-              <h3><a href="#">Hotel 3</a></h3>
+              <h3><a href="#">training 3</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>

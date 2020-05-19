@@ -911,56 +911,56 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Hotels Section
+# trainings Section
 --------------------------------------------------------------*/
-#hotels {
+#trainings {
   padding: 60px 0;
 }
 
-#hotels .hotel {
+#trainings .training {
   border: 1px solid #e0e5fa;
   background: #fff;
   margin-bottom: 30px;
 }
 
-#hotels .hotel:hover .hotel-img img {
+#trainings .training:hover .training-img img {
   transform: scale(1.1);
 }
 
-#hotels .hotel-img {
+#trainings .training-img {
   overflow: hidden;
   margin-bottom: 15px;
 }
 
-#hotels .hotel-img img {
+#trainings .training-img img {
   transition: 0.3s ease-in-out;
 }
 
-#hotels h3 {
+#trainings h3 {
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 5px;
   padding: 0 20px;
 }
 
-#hotels a {
+#trainings a {
   color: #152b79;
 }
 
-#hotels a:hover {
+#trainings a:hover {
   color: #f82249;
 }
 
-#hotels .stars {
+#trainings .stars {
   padding: 0 20px;
   margin-bottom: 5px;
 }
 
-#hotels .stars i {
+#trainings .stars i {
   color: #ffc31d;
 }
 
-#hotels p {
+#trainings p {
   padding: 0 20px;
   margin-bottom: 20px;
   color: #060c22;
