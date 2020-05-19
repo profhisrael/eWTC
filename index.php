@@ -197,6 +197,7 @@
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
               </div>
+              <span class="fa fa-calendar w3-padding-left w3-large w3-text-red"><b> May 19 - June 12, 2020</b></span>
               <p>0.4 Mile from the Venue</p>
             </div>
           </div>
