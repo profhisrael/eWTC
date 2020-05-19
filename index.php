@@ -126,8 +126,9 @@
               <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
               <p align="justify">
                 What is Field Force Management? Field Service Management (FSM), also known as Field Force Automation (FFA), is an attempt to optimize processes and information needed by companies who send technicians or staff "into the field" (or out of the office.)
-              </p>
-              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <br><br><br><br><br>
+          </p>
+              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
             </div>
@@ -143,7 +144,7 @@
               <p align="justify">
                 At the end of it all, we know adding value means helping you to save money, make more money or growing your business. In any and all assignments, these are our primary consideration. We do this focusing on improving your processes, making your resources far more efficient , ensuring  your people more productive or a combination of the 3, by delivering practical, accessible, current and useful advisory, proposal and solutions.
               </p>
-              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span></span></center>
               <br>
 
             </div>
@@ -157,9 +158,10 @@
               </div>
               <h2 class="title"><a href="#">Sales and Marketing Solution</a></h2>
               <p align="justify">
-                <span class="fa fa-star"></span> Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+               Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+              <br><br><br><br><br><br><br><br>
               </p>
-              <center><span class="w3-btn w3-round-large w3-red"> Details </span></center>
+              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
             </div>
