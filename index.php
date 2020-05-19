@@ -184,12 +184,12 @@
         </div>
         <div class="row">
 
-          <div class="col-lg-2 col-md-4">
+          <div class="col-sm-6 col-md-3">
             <div class="training">
               <div class="training-img">
                 <img src="assets/img/hotels/1.jpg" alt="training 1" class="img-fluid">
               </div>
-              <h3><a href="#">training 1</a></h3>
+              <h3 align="left"><a href="#">Frontend Prograamming 3 Month Course</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -201,38 +201,9 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
-            <div class="training">
-              <div class="training-img">
-                <img src="assets/img/hotels/2.jpg" alt="training 2" class="img-fluid">
-              </div>
-              <h3><a href="#">training 2</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-full"></i>
-              </div>
-              <p>0.5 Mile from the Venue</p>
-            </div>
-          </div>
+          
 
-          <div class="col-lg-4 col-md-6">
-            <div class="training">
-              <div class="training-img">
-                <img src="assets/img/hotels/3.jpg" alt="training 3" class="img-fluid">
-              </div>
-              <h3><a href="#">training 3</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-              </div>
-              <p>0.6 Mile from the Venue</p>
-            </div>
-          </div>
+<keep Doubling>
 
         </div>
       </div>
