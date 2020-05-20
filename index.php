@@ -198,7 +198,8 @@
                 <i class="fa fa-star"></i>
               </div>
               <span class="fa fa-calendar w3-padding-left w3-large w3-text-red"><b> May 19 - June 12, 2020</b></span>
-              <hr class="w3-large">
+              <hr>
+              <h5 class="w3-padding-left" style="font-color:#060c22;"> Sub Description to include</h5>
               <p>0.4 Mile from the Venue</p>
             </div>
           </div>
