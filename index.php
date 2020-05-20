@@ -118,50 +118,50 @@
 
         <div class="row serv-cols">
 
-          <div class="col-md-4 wow fadeInUp">
+          <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
                 <img src="assets/img/gallery/1.jpg" alt="" class="img-fluid">
                 <div class="icon"><span style="color:#060c22;" class="fa fa-flash w3-xxlarge""></span></div>
               </div>
               <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
-              <p align="justify">
+              <div align="justify" class="w3-padding">
                 What is Field Force Management? Field Service Management (FSM), also known as Field Force Automation (FFA), is an attempt to optimize processes and information needed by companies who send technicians or staff "into the field" (or out of the office.)
-              <br><br><br><br><br>
-          </p>
+              <br><br><br>
+          </div>
               <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
             </div>
           </div>
 
-          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
                 <img src="assets/img/gallery/2.jpg" alt="" class="img-fluid">
                 <div class="icon"><span class="fa fa-spinner w3-xxlarge"></span></div>
               </div>
               <h2 class="title"><a href="#"> Training and Human Capital Development</a></h2>
-              <p align="justify">
-                At the end of it all, we know adding value means helping you to save money, make more money or growing your business. In any and all assignments, these are our primary consideration. We do this focusing on improving your processes, making your resources far more efficient , ensuring  your people more productive or a combination of the 3, by delivering practical, accessible, current and useful advisory, proposal and solutions.
-              </p>
+              <div align="justify" class="w3-padding">
+                At the end of it all, we know adding value means helping you to save money, make more money or growing your business. In any and all assignments, these are our primary consideration. 
+              </div><br><br><br><br>
               <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span></span></center>
               <br>
 
             </div>
           </div>
 
-          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
                 <img src="assets/img/gallery/3.jpg" alt="" class="img-fluid">
                 <div class="icon"><span class="fa fa-check w3-xxlarge""></span></div>
               </div>
               <h2 class="title"><a href="#">Sales and Marketing Solution</a></h2>
-              <p align="justify">
+              <div align="justify" class="w3-padding">
                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
-              <br><br><br><br><br><br><br><br>
-              </p>
+              <br><br><br><br><br>
+              </div>
               <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
@@ -179,7 +179,7 @@
 
       <div class="container">
         <div class="section-header">
-          <h2>Taining & Upcoming Programmes</h2>
+          <h2>Training & Upcoming Programmes</h2>
 
         </div>
         <div class="row">
@@ -224,7 +224,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4">
+          <div class="col-sm-6 col-md-3">
             <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
@@ -240,95 +240,17 @@
                 </ul>
                 <hr>
                 <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">Buy Now</button>
+                  <button type="button" class="btn">Apply Now!</button>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-4">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Pro Access</h5>
-                <h6 class="card-price text-center">$250</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
-                </ul>
-                <hr>
-                <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="pro-access">Buy Now</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- Pro Tier -->
-          <div class="col-lg-4">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
-                <h6 class="card-price text-center">$350</h6>
-                <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Workshop Access</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>After Party</li>
-                </ul>
-                <hr>
-                <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="premium-access">Buy Now</button>
-                </div>
-
-              </div>
-            </div>
-          </div>
+          
         </div>
 
       </div>
 
-      <!-- Modal Order Form -->
-      <div id="buy-ticket-modal" class="modal fade">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h4 class="modal-title">Buy Tickets</h4>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <form method="POST" action="#">
-                <div class="form-group">
-                  <input type="text" class="form-control" name="your-name" placeholder="Your Name">
-                </div>
-                <div class="form-group">
-                  <input type="text" class="form-control" name="your-email" placeholder="Your Email">
-                </div>
-                <div class="form-group">
-                  <select id="ticket-type" name="ticket-type" class="form-control">
-                    <option value="">-- Select Your Ticket Type --</option>
-                    <option value="standard-access">Standard Access</option>
-                    <option value="pro-access">Pro Access</option>
-                    <option value="premium-access">Premium Access</option>
-                  </select>
-                </div>
-                <div class="text-center">
-                  <button type="submit" class="btn">Buy Now</button>
-                </div>
-              </form>
-            </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
-
-    </section><!-- End Buy Ticket Section -->
+    </section><!-- End Vacancy -->
 
 
     <!-- ======= Gallery Section ======= -->
