@@ -234,9 +234,6 @@
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
                 </ul>
                 <hr>
                 <div class="text-center">
