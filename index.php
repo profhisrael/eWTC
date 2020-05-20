@@ -189,18 +189,17 @@
               <div class="training-img">
                 <img src="assets/img/hotels/1.jpg" alt="training 1" class="img-fluid">
               </div>
-              <h3 align="left"><a href="#">Frontend Programming 3 Month Course</a></h3>
-              <div class="stars">
+              <h3 align="left" class="w3-padding-small"><a href="#">CURRENT ROLES AND  RESPONSIBILITIES OF THE PHARMACY TECHNICIAN IN THE HEALTH CARE SYSTEM </a></h3>
+              <div class="stars w3-padding-small">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
               </div>
-              <span class="fa fa-calendar w3-padding-left w3-large w3-text-red"><b> May 19 - June 12, 2020</b></span>
-              <hr style="width:100%; height:80%;" class="w3-topbar w3-border-indigo">
-              <h5 class="w3-padding-left" style="font-color:#060c22;"> Sub Description to include</h5>
-              <p>0.4 Mile from the Venue</p>
+              <span class="fa fa-calendar w3-padding-small w3-large w3-text-black"><b> July 7th - July 10th, 2020</b></span>
+              <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-large"><b> Lagos</b></span>
+              <div class="w3-padding-small w3-text-black w3-padding-top w3-small" align="justify"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
            <center><span class="w3-btn w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
             </div>
           </div>
@@ -221,7 +220,7 @@
 
         <div class="section-header">
           <h2>vacancies</h2>
-          <p>Velit consequatur consequatur inventore iste fugit unde omnis eum aut.</p>
+          <p></p>
         </div>
 
         <div class="row">
