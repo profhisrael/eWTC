@@ -198,7 +198,7 @@
                 <i class="fa fa-star"></i>
               </div>
               <span class="fa fa-calendar w3-padding-small w3-lage w3-text-black w3-small"><b> July 7th - July 10th, 2020</b></span>
-              <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-lage w3-text-black w3-small"><b> Lagos</b></span>
+              <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-lage w3-text-black w3-small"><b> Lagos</b></span><br>
               <div class="w3-padding-small w3-text-black w3-padding-top w3-small" align="justify"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
            <center><span class="w3-btn w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
             </div>
