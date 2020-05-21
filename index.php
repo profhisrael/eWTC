@@ -189,7 +189,7 @@
               <div class="training-img">
                 <img src="assets/img/hotels/1.jpg" alt="training 1" class="img-fluid">
               </div>
-              <h3 align="left" class="w3-padding-small"><a href="#">CURRENT ROLES AND  RESPONSIBILITIES OF THE PHARMACY TECHNICIAN IN THE HEALTH CARE SYSTEM </a></h3>
+              <h3 align="left" class="w3-padding-small w3-small"><a href="#"><b>CURRENT ROLES & RESPONSIBILITIES OF THE PHARMACY TECHNICIAN IN THE HEALTH CARE SYSTEM </b></a></h3>
               <div class="stars w3-padding-small">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -197,8 +197,8 @@
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
               </div>
-              <span class="fa fa-calendar w3-padding-small w3-large w3-text-black"><b> July 7th - July 10th, 2020</b></span>
-              <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-large"><b> Lagos</b></span>
+              <span class="fa fa-calendar w3-padding-small w3-lage w3-text-black w3-small"><b> July 7th - July 10th, 2020</b></span>
+              <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-lage w3-text-black w3-small"><b> Lagos</b></span>
               <div class="w3-padding-small w3-text-black w3-padding-top w3-small" align="justify"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
            <center><span class="w3-btn w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
             </div>
