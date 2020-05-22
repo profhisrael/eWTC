@@ -121,7 +121,7 @@
           <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
-                <img src="assets/img/gallery/1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/services/1.jpeg" alt="" class="img-fluid">
                 <div class="icon"><span style="color:#060c22;" class="fa fa-flash w3-xxlarge""></span></div>
               </div>
               <h2 class="title"><a href="#">Commercial/Field Force Management Solutions </a></h2>
@@ -138,7 +138,7 @@
           <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
-                <img src="assets/img/gallery/2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/services/2.jpg" alt="" class="img-fluid" style="height:230px; width:100%;">
                 <div class="icon"><span class="fa fa-spinner w3-xxlarge"></span></div>
               </div>
               <h2 class="title"><a href="#"> Training and Human Capital Development</a></h2>
@@ -154,7 +154,7 @@
           <div class="col-md-4 wow">
             <div class="serv-col">
               <div class="img">
-                <img src="assets/img/gallery/3.jpg" alt="" class="img-fluid">
+                <img src="assets/img/services/3.jpg" alt="" class="img-fluid">
                 <div class="icon"><span class="fa fa-check w3-xxlarge""></span></div>
               </div>
               <h2 class="title"><a href="#">Sales and Marketing Solution</a></h2>
@@ -175,7 +175,7 @@
     
 
     <!-- ======= Training and upcoming Pogrammes ======= -->
-    <section id="trainings" class="section-with-bg wow fadeInUp">
+    <section id="trainings" class="section-with-bg">
 
       <div class="container">
         <div class="section-header">
@@ -215,7 +215,7 @@
 
 
     <!-- ======= Vacancies======= -->
-    <section id="Enroll-Now" class="section-with-bg wow fadeInUp">
+    <section id="Enroll-Now" class="section-with-bg">
       <div class="container">
 
         <div class="section-header">
@@ -225,15 +225,12 @@
 
         <div class="row">
           <div class="col-sm-6 col-md-3">
-            <div class="card mb-5 mb-lg-0">
+            <div class="card mb-2 mb-lg-0">
               <div class="card-body">
                 <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
-                <h6 class="card-price text-center">$150</h6>
+                <h6 class="c">$150</h6>
                 <hr>
-                <ul class="fa-ul">
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
-                  <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
+              
                 </ul>
                 <hr>
                 <div class="text-center">
@@ -256,7 +253,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Gallery</h2>
-          <p>Check our gallery from the recent events</p>
+          <p>Check our gallery from the recent programme</p>
         </div>
       </div>
 
