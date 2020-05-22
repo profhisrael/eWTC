@@ -172,13 +172,14 @@
 
       </div>
     </section><!-- End serv Us Section -->
-    
+
+
 
     <!-- ======= Training and upcoming Pogrammes ======= -->
     <section id="trainings" class="section-with-bg">
 
-      <div class="container">
-        <div class="secton-headeri">
+       <div class="container">
+        <div class="section-header">
           <h2>Training & Upcoming Programmes</h2>
 
         </div>
@@ -187,7 +188,7 @@
           <div class="col-sm-6 col-md-3">
             <div class="training">
               <div class="training-img">
-                <img src="assets/img/hotels/1.jpg" alt="training 1" class="img-fluid">
+                <img src="assets/img/gallery/1.jpg" alt="training 1" class="img-fluid">
               </div>
               <h3 align="left" class="w3-padding-small w3-small"><a href="#"><b>CURRENT ROLES & RESPONSIBILITIES OF THE PHARMACY TECHNICIAN IN THE HEALTH CARE SYSTEM </b></a></h3>
               <div class="stars w3-padding-small">
