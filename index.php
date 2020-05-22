@@ -178,7 +178,7 @@
     <section id="trainings" class="section-with-bg">
 
       <div class="container">
-        <div class="section-header">
+        <div class="secton-headeri">
           <h2>Training & Upcoming Programmes</h2>
 
         </div>
