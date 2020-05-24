@@ -57,7 +57,7 @@
           <li><a href="vacancy.php">Vacancies</a></li>
           <li><a href="#trainings">Blog</a></li>
           <li><a href="#gallery">Gallery</a></li>
-          <li><a href="#supporters">Sponsors</a></li>
+          <li><a href="#sponsors">Sponsors</a></li>
           <li><a href="contact-us.php">Contact</a></li>
           <li class="Enroll-Now"><a href="#Enroll-Now">Enroll Now</a></li>
         </ul>
@@ -173,7 +173,48 @@
       </div>
     </section><!-- End serv Us Section -->
 
+<!-- ======= brochure Section ======= -->
+    <section id="brochure" class="brochure">
+      <div class="container">
 
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="brochure-box">
+              <span class="fa fa-download "></span><a href="">
+             <span class="w3-small w3-padding">2020 Tranining Schedule</span>
+            <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
+            </div>
+          </div>
+
+           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="brochure-box">
+              <span class="fa fa-download "></span><a href="">
+            <span class="w3-small w3-padding">2020 eWTC Programmes Brochure </span>
+             <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="brochure-box">
+              <span class="fa fa-file-pdf-o"></span><a href="">
+              <span class="w3-small w3-padding">eWtc Consultant Proposal</span>
+              <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="brochure-box">
+              <span class="fa fa-cloud-download"></span><a href="">
+             <span class="w3-small w3-padding">eWTC Recruitment Proposal</span>
+             <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End brochure Section -->
 
     <!-- ======= Training and upcoming Pogrammes ======= -->
     <section id="trainings" class="section-with-bg">
