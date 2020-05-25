@@ -171,16 +171,16 @@
         </div>
 
       </div>
-    </section><!-- End serv Us Section -->
+    </section><!-- End services Section -->
 
 <!-- ======= brochure Section ======= -->
-    <section id="brochure" class="brochure">
+    <section id="brochure" class="brochure" style="background-color:#060c22;">
       <div class="container">
 
         <div class="row">
 
           <div class="col-lg-3 col-md-6">
-            <div class="brochure-box">
+            <div class="brochure-box w3-round-large">
               <span class="fa fa-download "></span><a href="">
              <span class="w3-small w3-padding">2020 Tranining Schedule</span>
             <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
@@ -188,7 +188,7 @@
           </div>
 
            <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="brochure-box">
+            <div class="brochure-box w3-round-large">
               <span class="fa fa-download "></span><a href="">
             <span class="w3-small w3-padding">2020 eWTC Programmes Brochure </span>
              <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
@@ -196,7 +196,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="brochure-box">
+            <div class="brochure-box w3-round-large">
               <span class="fa fa-file-pdf-o"></span><a href="">
               <span class="w3-small w3-padding">eWtc Consultant Proposal</span>
               <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
@@ -204,7 +204,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="brochure-box">
+            <div class="brochure-box w3-round-large">
               <span class="fa fa-cloud-download"></span><a href="">
              <span class="w3-small w3-padding">eWTC Recruitment Proposal</span>
              <button class="w3-btn w3-red w3-small w3-padding-top">Download</button></a>
@@ -214,8 +214,7 @@
         </div>
 
       </div>
-    </section><!-- End brochure Section -->
-
+<br></section>
     <!-- ======= Training and upcoming Pogrammes ======= -->
     <section id="trainings" class="section-with-bg">
 
@@ -229,7 +228,7 @@
           <div class="col-sm-6 col-md-3">
             <div class="training">
               <div class="training-img">
-                <img src="assets/img/gallery/1.jpg" alt="training 1" class="img-fluid">
+                <img src="assets/img/training/1.png" alt="training 1" class="img-fluid">
               </div>
               <h3 align="left" class="w3-padding-small w3-small"><a href="#"><b>CURRENT ROLES & RESPONSIBILITIES OF THE PHARMACY TECHNICIAN IN THE HEALTH CARE SYSTEM </b></a></h3>
               <div class="stars w3-padding-small">
@@ -241,8 +240,8 @@
               </div>
               <span class="fa fa-calendar w3-padding-small w3-lage w3-text-black w3-small"><b> July 7th - July 10th, 2020</b></span>
               <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-lage w3-text-black w3-small"><b> Lagos</b></span><br>
-              <div class="w3-padding-small w3-text-black w3-padding-top w3-small" align="justify"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
-           <center><span class="w3-btn w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
+              <div class="w3-padding-small w3-text- w3-padding-top w3-small" align="justify" style="background-color:#060c22; color:white;"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
+           <center><span class="w3-btn w3-red w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
             </div>
           </div>
 
@@ -290,11 +289,11 @@
 
 
     <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="wow fadeInUp">
+    <section id="gallery" class=""  style="background-color:#060c22;">
 
       <div class="container">
         <div class="section-header">
-          <h2>Gallery</h2>
+          <h2 class="w3-text-white">Gallery</h2>
           <p>Check our gallery from the recent programme</p>
         </div>
       </div>
@@ -302,13 +301,8 @@
       <div class="owl-carousel gallery-carousel">
         <a href="assets/img/gallery/1.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/1.jpg" alt=""></a>
         <a href="assets/img/gallery/2.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/2.jpg" alt=""></a>
-        <a href="assets/img/gallery/3.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/3.jpg" alt=""></a>
-        <a href="assets/img/gallery/4.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/4.jpg" alt=""></a>
-        <a href="assets/img/gallery/5.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/5.jpg" alt=""></a>
-        <a href="assets/img/gallery/6.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/6.jpg" alt=""></a>
-        <a href="assets/img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/7.jpg" alt=""></a>
-        <a href="assets/img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/8.jpg" alt=""></a>
-      </div>
+
+
 
     </section><!-- End Gallery Section -->
 
