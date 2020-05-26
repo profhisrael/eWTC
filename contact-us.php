@@ -49,7 +49,7 @@
         </div>
 
         <div class="form">
-          <form action="contact.php" method="post" role="form" class="php-email-form">
+          <form action="contactform.php" method="post" class="php-email-form">
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -73,7 +73,7 @@
               <div class="error-message"></div>
               <div class="sent-message">Your message has been sent. Thank you!</div>
             </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            <div class="text-center"><button type="submit" name="submit">Send Message</button></div>
           </form>
         </div>
 
