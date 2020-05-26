@@ -50,15 +50,15 @@
       <nav id="nav-menu-container" >
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Home</a></li>
-          <li><a href="about.php">About</a></li>
+            <li><a href="about.php">About</a></li>
           <li><a href="services.php">Our Services</a></li>
           <li><a href="Training.php">Training & Programmes</a></li>
           <li><a href="vacancy.php">Vacancies</a></li>
-          <li><a href="#hotels">Blog</a></li>
-          <li><a href="gallery.php">Gallery</a></li>
-          <li><a href="sponsor.php">Sponsors</a></li>
+          <li><a href="https://blog.ekini.com">Blog</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#sponsors">Sponsors</a></li>
           <li><a href="contact-us.php">Contact</a></li>
-          <li class="Enroll-Now"><a href="#Enroll-Now">Enroll Now</a></li>
+          <li class="Enroll-Now"><a href="training.php">Enroll Now</a></li>
 </ul>
       </nav><!-- #nav-menu-container -->
     </div>

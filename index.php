@@ -129,7 +129,7 @@
                 What is Field Force Management? Field Service Management (FSM), also known as Field Force Automation (FFA), is an attempt to optimize processes and information needed by companies who send technicians or staff "into the field" (or out of the office.)
               <br><br><br>
           </div>
-              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
+              <center><span class="w3-btn w3-round-xxlarge w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
             </div>
@@ -145,7 +145,7 @@
               <div align="justify" class="w3-padding">
                 At the end of it all, we know adding value means helping you to save money, make more money or growing your business. In any and all assignments, these are our primary consideration. 
               </div><br><br><br><br>
-              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span></span></center>
+              <center><span class="w3-btn w3-round-xxlarge w3-red"> Details <span class="fa fa-caret-right"> </span></span></center>
               <br>
 
             </div>
@@ -162,7 +162,7 @@
                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
               <br><br><br><br><br>
               </div>
-              <center><span class="w3-btn w3-round-large w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
+              <center><span class="w3-btn w3-round-xxlarge w3-red"> Details <span class="fa fa-caret-right"> </span> </span></center>
               <br>
 
             </div>
@@ -240,9 +240,10 @@
               </div>
               <span class="fa fa-calendar w3-padding-small w3-lage w3-text-black w3-small"><b> July 7th - July 10th, 2020</b></span>
               <span class="w3-padding-small w3-padding-top fa fa-location-arrow w3-lage w3-text-black w3-small"><b> Lagos</b></span><br>
-              <div class="w3-padding-small w3-text- w3-padding-top w3-small" align="justify" style="background-color:#060c22; color:white;"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>
-           <center><span class="w3-btn w3-red w3-round-large" style="background-color:#060c22;">Booking and Details</span></center><br>
+              <div class="w3-padding-small w3-text- w3-padding-top w3-small" align="justify" style="background-color:#060c22; color:white;"><b>The pharmacy Technician obviously plays a definite role providing pharmaceutical care to the patients.</b></div><br>  
+           <center><span class="w3-btn w3-red w3-round-xxlarge">Booking and Details</span></center><br>
             </div>
+
           </div>
 
           
@@ -268,14 +269,12 @@
           <div class="col-sm-6 col-md-3">
             <div class="card mb-2 mb-lg-0">
               <div class="card-body">
-                <h5 class="card-title text-muted text-uppercase text-center">Standard Access</h5>
-                <h6 class="c">$150</h6>
-                <hr>
+                <p>The Vacancy will be here</p>
               
                 </ul>
                 <hr>
                 <div class="text-center">
-                  <button type="button" class="btn">Apply Now!</button>
+                  <span class="w3-btn w3-red w3-round-xxlarge">Apply Now</span>
                 </div>
               </div>
             </div>
@@ -286,7 +285,6 @@
       </div>
 
     </section><!-- End Vacancy -->
-
 
     <!-- ======= Gallery Section ======= -->
     <section id="gallery" class=""  style="background-color:#060c22;">
