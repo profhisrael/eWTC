@@ -24,7 +24,7 @@
 
           <div class="col-lg-3 col-md-6 footer-info">
             <img src="assets/img/logo.png" alt="ekiniwhitetulipconsulting">
-            <p>Ekini White Tulip Consulting Limited came into the human capital development and training sector in 2012  with a firm believe that services to the sector can be much professional, result-oriented and more responsive to your specific needs. Right now, there are too many generalists, forms rather than substance and delivery rather than value. We are here primarily to add concrete value to your organization.</p>
+            <p align="justify">Ekini White Tulip Consulting Limited came into the human capital development and training sector in 2012  with a firm believe that services to the sector can be much professional, result-oriented and more responsive to your specific needs. Right now, there are too many generalists, forms rather than substance and delivery rather than value. We are here primarily to add concrete value to your organization.</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
