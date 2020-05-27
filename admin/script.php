@@ -5,7 +5,11 @@
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
  
+ <!-- Font Awesome -->
  <link href="../assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+ <!-- W3.CSS -->
+   <link href="../assets/css/w3.css" rel="stylesheet">
   <!-- Bootstrap core JavaScript-->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

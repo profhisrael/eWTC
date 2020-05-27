@@ -103,12 +103,12 @@
       <hr class="sidebar-divider d-none d-md-block">
   <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="tables.html">
+        <a class="nav-link" href="brochure.php">
           <span class="fa fa-file-pdf-o"></span>
-          <span>Brochure</span></a>
+          <span class="w3-padding-left">Brochure</span></a>
           
       </li>
-
+<br>
 
       <!-- Sidebar Toggler (Sidebar) -->
       <div class="text-center d-none d-md-inline">
