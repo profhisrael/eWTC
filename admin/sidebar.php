@@ -96,10 +96,19 @@
         <a class="nav-link" href="tables.html">
           <i class="fas fa-fw fa-table"></i>
           <span>Newsletter</span></a>
+
       </li>
 
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
+  <!-- Nav Item - Tables -->
+      <li class="nav-item">
+        <a class="nav-link" href="tables.html">
+          <span class="fa fa-file-pdf-o"></span>
+          <span>Brochure</span></a>
+          
+      </li>
+
 
       <!-- Sidebar Toggler (Sidebar) -->
       <div class="text-center d-none d-md-inline">
