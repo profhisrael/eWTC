@@ -14,7 +14,7 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
-        <a class="nav-link" href="index.html">
+        <a class="nav-link" href="dashboard.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
       </li>
@@ -34,26 +34,26 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
          
-          <a class="collapse-item" href="buttons.php">Submitted Application</a>
-            <a class="collapse-item" href="buttons.html">Add New</a>
-            <a class="collapse-item" href="cards.html">Edit</a>
+          <a class="collapse-item" href="training_list.php">Submitted Application</a>
+            <a class="collapse-item" href="add_training.php">Add New</a>
+            <a class="collapse-item" href="edit_training.php">Edit</a>
           </div>
         </div>
       </li>
 
       <!-- Nav Item - Utilities Collapse Menu -->
       <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
+        <a class="nav-link collapsed" href="" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
           <i class="fas fa-fw fa-wrench"></i>
           <span>Job Vancancy</span>
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Recruiment Panel</h6>
-            <a class="collapse-item" href="utilities-color.html">Submitted CV</a>
-            <a class="collapse-item" href="utilities-border.html">Add New</a>
-            <a class="collapse-item" href="utilities-animation.html">Edit</a>
-            <a class="collapse-item" href="utilities-other.html">Delete</a>
+            <a class="collapse-item" href="submitted_app.php">Submitted CV</a>
+            <a class="collapse-item" href="new_vacancy.php">Add New</a>
+            <a class="collapse-item" href="edit_vacancy.php">Edit</a>
+            <a class="collapse-item" href="del_vacancy.php">Delete</a>
           </div>
         </div>
       </li>
@@ -72,7 +72,7 @@
         </a>
         <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-                   <a class="collapse-item" href="login.html">About Us</a>
+                   <a class="collapse-item" href="about_us.php">About Us</a>
             <a class="collapse-item" href="login.html">Faqs</a>
             <a class="collapse-item" href="register.html">Terms & Condition</a>
             <a class="collapse-item" href="forgot-password.html">Policy</a>
