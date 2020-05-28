@@ -1,3 +1,6 @@
+   <?php include("script.php");
+?>
+      
 <?php include("header.php");
 ?>
 
@@ -5,34 +8,20 @@
 ?>
 
 
-   <?php include("script.php");
-?>
-      
-
-
 
 
    <?php include("topbar.php");
 ?>
-<main><br><br><br><br>
-	<div class="container">
-
-<textarea name="content2">
-	
 
 
-</textarea>
+<div class="w3-container">
+	<div id="contents">
 
-	</div>
+		<script>
+			
+			$(document).ready(function() {
 
+				$('#contents').summernote();
+			});
 
-</main>
-
-<script src="ckeditor/ckeditor.js"></script>
-<script>
-	CKEDITOR.replace('content2');
-
-</script></body>
-
-   <?php include("footer.php");
-?>
+		</script>

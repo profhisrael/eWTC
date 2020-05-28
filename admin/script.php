@@ -26,3 +26,9 @@
   <!-- Page level custom scripts -->
   <script src="js/demo/chart-area-demo.js"></script>
   <script src="js/demo/chart-pie-demo.js"></script>
+
+<!--Summernote-->
+<link rel="stylesheet" type="text/css" href="summernote/dist/summernote.min.css">
+
+<script src="summernote/dist/summernote.js"></script>
+<script src="summernote/dist/summernote.min.js"></script>
